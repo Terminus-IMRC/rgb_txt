@@ -381,7 +381,6 @@ red1
 red2
 red3
 red4
-DebianRed
 DeepPink1
 DeepPink2
 DeepPink3
